@@ -1,0 +1,11 @@
+C:\Users\kafaiwong\Source\Repos\test20\test20\bin\Debug\netcoreapp2.0\test20.deps.json
+C:\Users\kafaiwong\Source\Repos\test20\test20\bin\Debug\netcoreapp2.0\test20.runtimeconfig.json
+C:\Users\kafaiwong\Source\Repos\test20\test20\bin\Debug\netcoreapp2.0\test20.runtimeconfig.dev.json
+C:\Users\kafaiwong\Source\Repos\test20\test20\bin\Debug\netcoreapp2.0\test20.dll
+C:\Users\kafaiwong\Source\Repos\test20\test20\bin\Debug\netcoreapp2.0\test20.pdb
+C:\Users\kafaiwong\Source\Repos\test20\test20\obj\Debug\netcoreapp2.0\test20.csprojAssemblyReference.cache
+C:\Users\kafaiwong\Source\Repos\test20\test20\obj\Debug\netcoreapp2.0\test20.csproj.CoreCompileInputs.cache
+C:\Users\kafaiwong\Source\Repos\test20\test20\obj\Debug\netcoreapp2.0\test20.AssemblyInfoInputs.cache
+C:\Users\kafaiwong\Source\Repos\test20\test20\obj\Debug\netcoreapp2.0\test20.AssemblyInfo.cs
+C:\Users\kafaiwong\Source\Repos\test20\test20\obj\Debug\netcoreapp2.0\test20.dll
+C:\Users\kafaiwong\Source\Repos\test20\test20\obj\Debug\netcoreapp2.0\test20.pdb
